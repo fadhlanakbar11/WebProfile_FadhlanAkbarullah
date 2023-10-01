@@ -350,25 +350,28 @@ margin: 30px 50px;
     color: rgb(0, 0, 107);
 }
 
-.social-icon1 a img
-{
-    width: 26px;
-    height: auto;
-    position: absolute;
-    left: 92.1%;
-    top: 348.2%;    
-}
+/* start of footer */
 
-.social-icon2 a img
+.mail-icon a img
 {
     width: 30px;
     height: auto;
     position: absolute;
-    left: 89%;
-    top: 348.1%;    
+    left: 91.7%;
+    top: 348%;    
 }
 
-.social-icon3 a img
+.insta-icon a img
+{
+    width: 26px;
+    height: auto;
+    position: absolute;
+    left: 89%;
+    top: 348.2%;    
+}
+
+
+.linkedin-icon a img
 {
     width: 26px;
     height: auto;
@@ -376,3 +379,14 @@ margin: 30px 50px;
     left: 86.3%;
     top: 348.2%;  
 }
+
+.git-icon a img
+{
+    width: 27px;
+    height: auto;
+    position: absolute;
+    left: 83.5%;
+    top: 348.1%;  
+}
+
+/* end of footer */
