@@ -196,7 +196,7 @@ margin: 30px 50px;
 .column2
 {
     flex:10%;
-    padding: 10px;
+    padding: 0px;
     height: 200px;
     margin: 30px;
     position: absolute;
@@ -221,6 +221,14 @@ margin: 30px 50px;
     margin: 0px 50px 0px 50px;
     display: flex;
     color: rgb(0, 0, 107);
+}
+
+.column2 a p
+{
+    text-align: center;
+    font-weight: 600;
+    color: rgb(0, 0, 107);
+    margin: 20px 200px 20px 200px;
 }
 
 .foto
