@@ -182,7 +182,6 @@ margin: 30px 50px;
 .column1
 {
     flex:10%;
-    padding: 0px;
     height: 200px;
     margin: 30px;
     position: absolute;
@@ -196,12 +195,11 @@ margin: 30px 50px;
 .column2
 {
     flex:10%;
-    padding: 0px;
     height: 200px;
     margin: 30px;
     position: absolute;
     left: 35%;
-    top: 150%;
+    top: 152%;
     right: 5%;
     background-color: aqua;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
